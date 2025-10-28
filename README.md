@@ -9,4 +9,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosvilla00896&theme=tokyonight)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=carlosvilla00896&theme=tokyonight&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=carlosvilla00896&theme=onedark&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
