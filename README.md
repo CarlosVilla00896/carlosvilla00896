@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning about AI integration into data extraction and classification processes
 - 📫 How to reach me:
   - Work-related stuff: carlos@todolegal.app
+  - Linkedin: linkedin.com/in/carlos-villanueva-87b198176/?locale=es
   - Personal: carlosvilla00896@gmail.com
   - Discord: @carlos_villa
 
