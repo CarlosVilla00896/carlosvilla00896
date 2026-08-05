@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on LegalTech
+- 🔭 I’m currently working in LegalTech
 - 🌱 I’m currently learning about AI integration into data extraction and classification processes
 - 📫 How to reach me:
   - Work-related stuff: carlos@todolegal.app
